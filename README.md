@@ -6,3 +6,5 @@ popper.min.js下载来源（要下载这个路径下的popper.js/dist/umd）：h
 https://unpkg.com/@wangeditor/editor@5.1.23/dist/css/style.css 
 
 https://unpkg.com/@wangeditor/editor@5.1.23/dist/index.js
+
+**https://www.bootcdn.cn/jquery/**
